@@ -7,7 +7,7 @@
 
 - **Solution:** Performed EDA to assess sales by gender, age, marital status, state, occupation, and product category, highlighting top spending groups and popular product categories.
 
-![](/Images/Diwali 1.png)
+![](/Images/Diwali.png)
 
 
 - **Key Achievement:** Effectively visualized Diwali sales data, uncovering key insights on customer behavior and spending patterns, making it accessible and actionable for targeted marketing strategies.
