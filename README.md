@@ -32,11 +32,12 @@
                 ratings to drive business insights and service optimization.
 ![](/Images/Ola.png)
 
- ### [PROJECT 5 - Ola_Analysis_SQL](https://github.com/Sachaitlikhi/Ola-Power-BI-Project)
-- **Objective:** To analyze Ola's ride data for July 2023, focusing on booking success, vehicle performance, cancellations, customer behavior, and payment methods.
+ ### [PROJECT 5 - Ola-Power-BI-Project](https://github.com/Sachaitlikhi/Ola-Power-BI-Project)
+- **Objective:** To analyze Ola's ride bookings for July 2024, focusing on booking trends, payment behavior, cancellations, revenue, customer behavior, and ratings through a Power BI 
+                 dashboard.
 
-- **Solution:** Conducted SQL queries to analyze successful bookings, average ride distance by vehicle type, reasons for cancellations, top customers, payment methods (especially UPI), and 
-                ratings to drive business insights and service optimization.
+- **Solution:** Developed a Power BI report to visualize ride volume, booking status, revenue by payment method, top customers, and cancellation reasons, offering actionable insights for 
+                service optimization and customer satisfaction.
 
 ![](/Images/Ola_Dashboard.png)
   
